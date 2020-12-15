@@ -7,4 +7,6 @@ Last step, in you'r terminal execute project [name of the project] to copy you'r
 
 Include files will be renamed by the name of the project. You must to call it `project.h` (if you don't have this file the program will crash)
 
+PS: gonna fix the crash later
+
 # v 1.0
